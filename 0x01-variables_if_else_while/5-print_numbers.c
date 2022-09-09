@@ -7,7 +7,7 @@
  * this program prints all single digit numbers of base 10 starting from 0
  * return: 0
  */
-int main(void)0
+int main(void)
 {
 int i;
 for (i = 0; i < 10; i++)
