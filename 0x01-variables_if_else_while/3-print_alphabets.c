@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+/**
+ * main - print
+ *
+ * description: alphabet
+ * this program prints alphabet in lowercase then uppercase
+ */
+int main(void)
+{
+char ch;
+for (ch = 'a' ; ch <= 'z' ; ch++)
+{
+	putchar(ch);
+}
+for (chh = 'A' ; ch <= 'Z' ; ch++)
+{
+	putchar(ch);
+}
+putchar('\n');
+return (0);
+}
