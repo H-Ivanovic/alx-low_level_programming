@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main prints _putchar
+ * main prints
  *
+ * description
  * return: 0
  */
 int main(void)
@@ -19,4 +20,3 @@ int main(void)
 
 	return (0);
 }
-
