@@ -3,9 +3,9 @@
 /**
 * print_remaining_days - takes a date and prints how many days are
 * taking leap years into account
-* month
-* day
-* year
+* month: convert date to day
+* day: count days left
+* year: taking leap year in account
 * return void
 */
 
