@@ -2,6 +2,7 @@
 
 /**
  * is_palindrome - check if a string is a palindrome
+ * @s:string
  *
  * Return: 1 if palindrome, and 0 if otherwise
  */
@@ -16,7 +17,7 @@ int is_palindrome(char *s)
 
 /**
  * get_length - gets length of string
- *
+ * @s:string
  * Return: return length of string
  */
 int get_length(char *s)
@@ -29,6 +30,8 @@ int get_length(char *s)
 
 /**
  * my_pal - recursive check of palindrome
+ * @s:string
+ * @l:length of string
  *
  * Return: 1 if palindrome, 0 if not
  */
