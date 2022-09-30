@@ -15,5 +15,6 @@ int hai(int n, int d);
 int find_sqrt(int num, int root);
 int get_length(char *s);
 int my_pal(char *s, int l);
+int _sqrt(int n, int x);
 
 #endif /*MAIN_H*/
