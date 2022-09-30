@@ -12,5 +12,8 @@ int is_prime_number(int n);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 int hai(int n, int d);
+int find_sqrt(int num, int root);
+int get_length(char *s);
+int my_pal(char *s, int l);
 
 #endif /*MAIN_H*/
