@@ -6,7 +6,7 @@
  * @argc:counts arguments
  * @argv:arguments
  *
- * return:0
+ * return:always 0
  */
 int main(int argc, char *argv[])
 {
